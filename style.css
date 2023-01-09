@@ -14,7 +14,8 @@ body{
     font-size: 20px;
 }
 canvas{
-    margin-top: 150px;
+    margin-top: 60px;
     border: solid white 3px;
     border-radius: 20px;
+    background-color: black;
 }
